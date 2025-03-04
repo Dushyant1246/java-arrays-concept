@@ -1,7 +1,7 @@
-// Class StudentGrades to compute percentage and grade based on marks in 3 subjects
+// Class MarksGrade2D to compute percentage and grade based on marks in 3 subjects
 import java.util.Scanner;
 
-class StudentGrades2D {
+class MarksGrade2D {
     public static void main(String[] args) {
         // Create Scanner object for user input
         Scanner scanner = new Scanner(System.in);
